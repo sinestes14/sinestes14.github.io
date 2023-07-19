@@ -220,3 +220,11 @@ main > img {
   position:absolute;
   display:none;
 }
+
+menu > div > a {
+  color:white;
+}
+
+#nosotrxs {
+  float: left;
+}
